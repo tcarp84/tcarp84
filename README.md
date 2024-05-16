@@ -1,5 +1,5 @@
 # Hello, I'm Trent
-<a href="https//www.linkedin.comin/trent-carpenter-759099247/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https//www.linkedin.com/in/trent-carpenter-759099247/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Senior business analyst with over a decade of experience in the fields of business intelligence, business analysis, project management, social media marketing, and data analysis.
 
